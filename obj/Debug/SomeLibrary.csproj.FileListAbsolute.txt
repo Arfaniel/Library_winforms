@@ -1,0 +1,9 @@
+c:\users\pinta\documents\visual studio 2015\Projects\SomeLibrary\SomeLibrary\bin\Debug\SomeLibrary.exe.config
+c:\users\pinta\documents\visual studio 2015\Projects\SomeLibrary\SomeLibrary\bin\Debug\SomeLibrary.exe
+c:\users\pinta\documents\visual studio 2015\Projects\SomeLibrary\SomeLibrary\bin\Debug\SomeLibrary.pdb
+c:\users\pinta\documents\visual studio 2015\Projects\SomeLibrary\SomeLibrary\obj\Debug\SomeLibrary.csprojResolveAssemblyReference.cache
+c:\users\pinta\documents\visual studio 2015\Projects\SomeLibrary\SomeLibrary\obj\Debug\SomeLibrary.Form1.resources
+c:\users\pinta\documents\visual studio 2015\Projects\SomeLibrary\SomeLibrary\obj\Debug\SomeLibrary.Properties.Resources.resources
+c:\users\pinta\documents\visual studio 2015\Projects\SomeLibrary\SomeLibrary\obj\Debug\SomeLibrary.csproj.GenerateResource.Cache
+c:\users\pinta\documents\visual studio 2015\Projects\SomeLibrary\SomeLibrary\obj\Debug\SomeLibrary.exe
+c:\users\pinta\documents\visual studio 2015\Projects\SomeLibrary\SomeLibrary\obj\Debug\SomeLibrary.pdb
