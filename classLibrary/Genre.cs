@@ -9,6 +9,9 @@ namespace SomeLibrary.classLibrary
     public class Genre
     {
         public string genreName;
+        public Genre()
+        {
+        }
         public Genre(string name)
         {
             genreName = name;
